@@ -1,0 +1,31 @@
+PODS:
+  - AzureCommunicationChat (1.1.1):
+    - AzureCommunicationCommon (~> 1.0.3)
+    - AzureCore (= 1.0.0-beta.15)
+    - Trouter (= 0.1.0)
+  - AzureCommunicationCommon (1.0.3)
+  - AzureCore (1.0.0-beta.15)
+  - Trouter (0.1.0)
+
+DEPENDENCIES:
+  - AzureCommunicationChat (from `/Users/amylong/Documents/GitHub/azure-sdk-for-ios/sdk/communication/AzureCommunicationChat`)
+
+SPEC REPOS:
+  trunk:
+    - AzureCommunicationCommon
+    - AzureCore
+    - Trouter
+
+EXTERNAL SOURCES:
+  AzureCommunicationChat:
+    :path: "/Users/amylong/Documents/GitHub/azure-sdk-for-ios/sdk/communication/AzureCommunicationChat"
+
+SPEC CHECKSUMS:
+  AzureCommunicationChat: 194c89befcd15044b6109880e1be9ee64cc33597
+  AzureCommunicationCommon: 85a3f0ab952db4f88e03bbdb03e79197f90f1d5d
+  AzureCore: ebbf7cf4dfe72afc7584088c38d1c99f5a35d647
+  Trouter: 62f6db5519829c0897832d404338c3b78ea64fa2
+
+PODFILE CHECKSUM: 114bba55639ae48ef637d959b7b2b34213c47e8b
+
+COCOAPODS: 1.11.3
